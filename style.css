@@ -18,6 +18,7 @@ h1, h2 {
     text-align: center;
     color: #c3a0c3;
 }
+
 .section {
     margin-bottom: 20px;
 }
@@ -71,6 +72,14 @@ li {
 }
 .social-buttons img:hover {
     transform: scale(1.1);
+}
+.iz{
+    width: 30%;
+    float: left;
+}
+.de{
+    float: right;
+    width: 60%;
 }
 .profession{
     text-align: center;
